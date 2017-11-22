@@ -25,7 +25,7 @@ author: Tommy
 
 
 
-[![post1-1]({{ site.images | relative_url }}/post1-1.png)]({{ site.images | relative_url }}/post1-1.png)
+![post1-1](https://github.com/xiw3n/xiw3n.github.io/blob/master/assets/images/post1-1.png)
 
 图一：百元面额斯里兰卡卢比
 
@@ -33,7 +33,7 @@ author: Tommy
 
 由于没有手机卡也没有网络连接，刚出机场时还有些担心联系不上接机同事。但是，拿着接机牌站在到达厅门口的司机Dilak证明了这个担心是完全多余的。
 
-[![post1-2]({{ site.images | relative_url }}/post1-2.png)]({{ site.images | relative_url }}/post1-2.png)
+![post1-2](https://github.com/xiw3n/xiw3n.github.io/blob/master/assets/images/post1-2.png)
 
 图二：项目现场CMEC营地
 
@@ -47,7 +47,7 @@ author: Tommy
 
 
 ## 渐入佳境
-[![post1-3]({{ site.images | relative_url }}/post1-3.png)]({{ site.images | relative_url }}/post1-3.jpg)
+![post1-3](https://github.com/xiw3n/xiw3n.github.io/blob/master/assets/images/post1-3.png)
 图三：普特拉姆3X300MW燃煤电站全景图
 
 
@@ -61,7 +61,7 @@ author: Tommy
 
 作为事业部投融资专员，金融财务评估测算能力固然重要，但是评估报告的价值严重依赖数据输入端的准确性和可信度。因此，在数据输入资料第一手来源项目现场的实习经历就难能可贵、光阴珠玉了。现场口译、公文翻译、与业主沟通开会、标书的整理打印装订等，这些琐碎而又重要的工作在现场各位同事的悉心帮助下有条不紊的进行着。每每编撰、翻译公文时我都会想起国内实习期间束光辉老师幽默风趣的公文写作课，而在处理项目消缺、标书精读等工作的时候，陈勇强老师在课上监督我们默写FIDIC条款的情形又浮现眼前。
 
-[![post1-4]({{ site.images | relative_url }}/post1-4.png)]({{ site.images | relative_url }}/post1-4.png)
+![post1-4](https://github.com/xiw3n/xiw3n.github.io/blob/master/assets/images/post1-4.png)
 
 图四：黄昏（电站主体和输煤栈桥）
 

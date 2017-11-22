@@ -1,5 +1,5 @@
 ---
-bg: "tag.jpg"
+bg: "rails.jpg"
 layout: page
 permalink: /posts/
 title: "Articles"

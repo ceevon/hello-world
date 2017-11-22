@@ -2,7 +2,7 @@
 bg: "tag.jpg"
 layout: page
 permalink: /posts/
-title: "Null"
+title: "Articles"
 crawlertitle: "All articles"
 summary: "Null"
 active: archive

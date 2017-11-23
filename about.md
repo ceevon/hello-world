@@ -1,5 +1,5 @@
 ---
-bg: "rails.jpg"
+bg: "aboutme.PNG"
 layout: page
 title: "About"
 crawlertitle: "Why and how this website was created"

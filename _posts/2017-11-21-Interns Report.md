@@ -6,7 +6,7 @@ crawlertitle: "Days in Lakvijaya"
 summary: "实习报告（一）"
 date:   2017-11-21 08:09:47 +0700
 categories: posts
-tags: ['斯里兰卡普特拉姆3X300MW燃煤电站']
+tags: ['燃情斯里兰卡']
 author: Tommy
 line-height: 20px;
 ---

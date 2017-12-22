@@ -2,7 +2,7 @@
 bg: "rails.jpg"
 layout: post
 title:  "海外实习报告（二）"
-crawlertitle: "Days in Lakvijaya"
+crawlertitle: "Experience Sri Lanka"
 summary: "实习报告（二）"
 date:   2017-12-22 11:08:47 +0700
 categories: posts
@@ -12,12 +12,10 @@ line-height: 20px;
 ---
 
 <br>
-
 [![post2-0]({{ site.images | relative_url }}/post2-0.png)]({{ site.images | relative_url }}/post2-0.png)
-
-<br>
 <br>
 
+<br>
 ## 融入
 
 <br>

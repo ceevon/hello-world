@@ -6,7 +6,7 @@ crawlertitle: "Days in Lakvijaya"
 summary: "实习报告（二）"
 date:   2017-12-22 11:08:47 +0700
 categories: posts
-tags: ['Experience Sri Lanka']
+tags: ['Days in Sri Lanka']
 author: Tommy
 line-height: 20px;
 ---

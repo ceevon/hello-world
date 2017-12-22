@@ -11,7 +11,6 @@ author: Tommy
 line-height: 20px;
 ---
 
-<br>
 [![post2-0]({{ site.images | relative_url }}/post2-0.png)]({{ site.images | relative_url }}/post2-0.png)
 <br>
 
